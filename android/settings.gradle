@@ -1,0 +1,3 @@
+rootProject.name = 'SafeCar'
+
+include ':app'
